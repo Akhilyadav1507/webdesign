@@ -1,2 +1,2 @@
 # webdesign
-My Webpage design from front-end web development.
+ Webpage design from front-end web development.
